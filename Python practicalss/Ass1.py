@@ -1,4 +1,5 @@
-# Take two numbers as input from the user
+# Task 1: Perform Basic Mathematical Operations
+
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
